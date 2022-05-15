@@ -4,7 +4,7 @@ The application is written in PowerShell and uses Windows Forms for the frontend
 
 # Running the application
 Recommended to run with administrative privliges for updating or removing module functionality.
-Download the latest release or download the repository and make your own edits to the PowerShell script and run your script.
+Download the latest (release)[https://github.com/serialscriptr/PSExplorer/releases/latest] or download the repository and make your own edits to the PowerShell script and run your script.
 
 # To Do
 - Modules: Make outdated module cell text for installed version show as red
