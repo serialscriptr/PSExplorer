@@ -13,6 +13,9 @@ Download the latest [release](https://github.com/serialscriptr/PSExplorer/releas
 - Modules: Various colors for ps version column. Ex: ps 5.1 is dark blue, ps 4 is light blue etc
 - Variables: Maybe have a more info pane
 - Variables: Add ability to change values of variables
+- Variables: Include all accessible runspaces
+- Variables: Based on environmnet get special variables specific to the environment (etc MDT/SCCM)
 - New tab: Objects
 - New tab: Host/runtime ps version info and all available ps versions
+- Add theme/color options to menu strip
 - Anything else I can think of later that might be useful
