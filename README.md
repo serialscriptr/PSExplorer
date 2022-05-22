@@ -7,6 +7,7 @@ Recommended to run with administrative privliges for updating or removing module
 Download the latest [release](https://github.com/serialscriptr/PSExplorer/releases/latest) or download the repository and make your own edits to the PowerShell script and run your script.
 
 # To Do
+- Modules: Mark all modules that come installed with Windows/Powershell
 - Modules: Make outdated module cell text for installed version show as red
 - Modules: Make modules with multiple versions installed cell text light orange
 - Modules: Make up to date modules version cell text green
